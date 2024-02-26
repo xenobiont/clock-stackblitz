@@ -26,7 +26,10 @@
             }
           },
           "options": {
-            "assets": [],
+            "assets": [
+              "src/assets/clock1.svg",
+              "src/assets/clock2.svg"
+            ],
             "index": "src/index.html",
             "browser": "src/main.ts",
             "outputPath": "dist/demo",

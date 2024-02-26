@@ -1,5 +1,6 @@
 /* Add application styles & imports to this file! */
-img {
+img,
+svg {
   width: 1em;
   height: 1em;
 }

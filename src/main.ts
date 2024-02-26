@@ -12,7 +12,7 @@ import { ClockComponent } from './app/clock/clock.component';
   `,
 })
 export class App {
-  name = 'Angular';
+
 }
 
 bootstrapApplication(App);
